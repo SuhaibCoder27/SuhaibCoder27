@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 1. Tech Explorer Who Learns by Building<br>“I learn new technologies by directly converting them into real projects — from machine learning models to human-computer interaction systems.”<br><br>🧠 2. Turning Ideas Into Working Prototypes<br>“I love taking raw ideas and converting them into functional prototypes in Python, Flask, FastAPI, and PySide6.”<br><br>🎯 3. Fresher With a Problem-Solving Mindset<br>“As a fresher, I focus on writing simple, clean, readable code that solves real-world problems instead of complicated code that no one can maintain.”<br><br>🤖 4. Passion for Automation & Smart Systems<br>“I enjoy building automation systems — from gesture-controlled interfaces to AI-powered recommendation engines.”<br><br>🩺 5. Interested in ML for Healthcare & Personalization<br>“Currently exploring how machine learning can personalize healthcare recommendations and automate decision-making safely.”<br><br>💡 6. Believer in ‘Build > Learn’ Philosophy<br>“I learn faster by experimenting, breaking things, and fixing them — not by memorizing syntax.”<br><br>🌐 7. Clean UI + Smart Backend Approach<br>“I always try to combine good UI experience (PyQt, PySide, web UI) with powerful backend systems (FastAPI, Flask, SQL, ML).”<br><br>📊 8. Data-Driven Thinker<br>“I enjoy exploring patterns in data and using SQL + Python + ML to build insights-driven applications.”<br><br>🔍 9. Open to Feedback & Collaboration<br>“I always keep my code open for peer review because I believe collaboration improves engineering quality.”<br><br>🛠️ 10. Building Projects That People Can Actually Use<br>“My goal is to create deployable, real-world apps—not just academic projects.”<br><br>🧪 11. Breaking Down Complex Systems Into Simple Steps<br>“I try to design systems in small, modular components that are easy to understand, test, and reuse.”<br><br>🔄 12. Always Improving<br>“I constantly refactor old projects and rewrite them with better patterns, performance, or UI.”<br><br>🛡️ 13. Security + Performance Mindset<br>“Even as a fresher, I follow secure coding practices, handle edge cases, and think about performance early.”<br><br>🗣️ 14. Tech Communicator<br>“I enjoy simplifying technical concepts and explaining them in easy English while documenting my work clearly.”<br><br>⏳ 15. Believe in Consistency Over Speed<br>“I build consistently every day — even small improvements matter.”<br><br>👨‍💼 16. Leadership Through Ownership<br>“I take ownership of my work, guide peers when needed, and step up during team tasks — leading with clarity, calmness, and responsibility.”
 
-<!--
-**SuhaibCoder27/SuhaibCoder27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suhaibsheriff) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhaibsheriff03@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SuhaibCoder27&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SuhaibCoder27&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaibCoder27&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SuhaibCoder27&icon=9&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
