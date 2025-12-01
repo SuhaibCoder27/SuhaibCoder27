@@ -15,16 +15,64 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suhaibsheriff) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhaibsheriff03@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]([https://www.instagram.com/your_username](https://www.instagram.com/_suhaib27_/))
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+#### Languages
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-000?style=for-the-badge&logo=powerbi&logoColor=white)
+
+#### Framework/Library
+![NumPy](https://img.shields.io/badge/-NumPy-000?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyQt](https://img.shields.io/badge/-PyQt-000?style=for-the-badge&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=for-the-badge&logo=opencv&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=openai&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-000?style=for-the-badge)
+![PySide6](https://img.shields.io/badge/-PySide6-000?style=for-the-badge&logo=qt&logoColor=white)
+![PyTest](https://img.shields.io/badge/-PyTest-000?style=for-the-badge&logo=pytest&logoColor=white)
+![OS](https://img.shields.io/badge/-OS-000?style=for-the-badge)
+
+#### Database
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Cloud Technology 
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
+#### Tools and software
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-000?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/-Word-000?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-000?style=for-the-badge&logo=cisco&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SuhaibCoder27&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SuhaibCoder27&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaibCoder27&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## 🗂️ Languages Used
+
+![Language Chart](https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22HTML%22%2C%22CSS%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B60%2C30%2C10%5D%7D%5D%7D%7D)
+
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SuhaibCoder27&icon=9&color=9)](https://visitcount.itsvg.in)
+### Thanks for Visiting my GitHub Profile!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
